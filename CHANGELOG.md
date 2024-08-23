@@ -22,6 +22,7 @@
 - [#1185](https://github.com/jacomyal/sigma.js/issues/1185) Adds new `zoomToSizeRatioFunction` and `itemSizesReference` setting
 - [#1231](https://github.com/jacomyal/sigma.js/issues/1231) Adds new [`@sigma/edge-curve`](https://www.npmjs.com/package/@sigma/edge-curve) renderer, as a new package
 - Adds new [`@sigma/node-border`](https://www.npmjs.com/package/@sigma/node-border) renderer, as a new package
+- [#1400](https://github.com/jacomyal/sigma.js/issues/1400)  Shadow DOM Support
 
 ## 2.4.0
 
